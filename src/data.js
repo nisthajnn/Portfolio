@@ -9,6 +9,14 @@ export const projects = [
     link: "https://codecraft-mu.vercel.app/",
   },
   {
+    title: "Shop Ease",
+    subtitle: "ReactJS, Material UI, Tailwind CSS",
+    description:
+      "Developed the frontend of Shop Ease, an e-commerce website,enhancing the browsing experience for customers.",
+    image: "./images/shop.gif",
+    link: "https://shopppease.vercel.app/",
+  },
+  {
     title: "Chrome Ad Blocker Extension",
     subtitle: "JavaScript",
     description:
@@ -23,21 +31,14 @@ export const projects = [
     image: "./images/equivation.gif",
     link: "https://hack-it-nine.vercel.app/",
   },
+ 
   {
-    title: "Quick Notes",
-    subtitle: "React JS Hooks",
-    description:
-      "Developed a user-friendly notes application with cross-platform functionality for seamless note-taking and management",
-    image: "./images/quicknotes.gif",
-    link: "https://quicknotes-2rkl491d9-nisthajnn.vercel.app/",
-  },
-  {
-    title: "CodeFlow",
-    subtitle: "JavaScript and API",
-    description:
-      "A tool that keeps giving you new programming quotes whenever you need them for motivation and inspiration",
-    image: "./images/programming.gif",
-    link: "https://programming-quotes-generator-silk.vercel.app/",
+    title: "Crypto Insight",
+    subtitle: "HTML, TailWind CSS, ReactJS",
+    description:"Designed and developed Crypto Insight, a comprehensive platform providing users with real-time cryptocurrency information and reduce loading time."
+    ,
+    image: "./images/bb.gif",
+    link: "https://crypto-insight-zu92.vercel.app/",
   },
     {
       title: "ChatGPT AI Tool Clone",
