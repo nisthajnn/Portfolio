@@ -16,7 +16,7 @@ const About = () => {
         </p>
         <div className="flex justify-center">
         <a 
-  href="https://drive.google.com/file/d/1zWP4vTBlFOom_Es5us2aeU3aortAlvGc/view" 
+  href="https://drive.google.com/file/d/1V9FPnOTzifxCf4vyG-HZMLm2swjTzKUU/view?usp=sharing" 
   target="_blank"
   className="inline-flex text-white bg-sky-500/75 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg"
 >
